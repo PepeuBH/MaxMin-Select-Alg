@@ -11,7 +11,7 @@ A técnica de divisão e conquista no algoritmo de MaxMin Select começa com a d
 ### Requisitos
 - Ter `python` instalado no computador V.3+
 
-- Executar em um terminal ou amviente Python: `python max_min.py`
+- Executar em um terminal ou ambiente Python: `python max_min.py`
 
 ## Análise do algoritmo
 
