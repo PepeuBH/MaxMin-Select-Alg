@@ -102,7 +102,7 @@ Aqui está um diagrama para ilustrar os passos realizados pelo algortimo, utiliz
 
     array = [17, 14, 26, 89, 13, 10, 4]
 
-![alt text](Diagrama.png)
+![Diagrama](./assets/Diagrama.png)
 
 
 
