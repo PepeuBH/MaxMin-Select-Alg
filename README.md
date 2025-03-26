@@ -17,9 +17,9 @@ A técnica de divisão e conquista no algoritmo de MaxMin Select começa com a d
 
 ### Complexidade
 
-- Tempo: O(n), pois cada elemento é processado uma vez.
+- Tempo: ``O(n)``, pois cada elemento é processado uma vez.
 
-- Espaço: O(log n) devido às chamadas recursivas.
+- Espaço: ``O(log n)`` devido às chamadas recursivas.
 
 
 ### Contagem de Comparações
