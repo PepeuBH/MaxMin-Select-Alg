@@ -96,6 +96,14 @@ O número de comparações realizadas pelo algoritmo pode ser analisado da segui
 
 A complexidade total do algoritmo é ``O(n)``, confirmando que o número de comparações cresce ``linearmente`` com o tamanho do array. Isso demonstra que a abordagem de divisão e conquista otimiza o número de comparações em relação ao método ingênuo que faria ``2(n-1)`` comparações.
 
+## Diagrama MaxMin
+
+Aqui está um diagrama para ilustrar os passos realizados pelo algortimo, utilizando o mesmo array do programa:
+
+    array = [17, 14, 26, 89, 13, 10, 4]
+
+![alt text](Diagrama.png)
+
 
 
 
